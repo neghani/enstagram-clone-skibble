@@ -101,3 +101,7 @@ html {
   max-width: 100%;
   border-radius: 4px;
 }
+
+.footer span{
+  margin: 8px;
+}
